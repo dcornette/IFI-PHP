@@ -1,0 +1,6 @@
+services:
+
+#    contact.handler:
+#        class: AppBundle\Form\ContactHandler
+#        scope: request
+#        arguments: [ @contact.form ,@request, @mailer, @templating, @session ]
